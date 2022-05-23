@@ -1,3 +1,6 @@
+
+[![CI](https://github.com/OMINDUANJANA/Ai-Camera-Kit/actions/workflows/main.yml/badge.svg?branch=master&event=check_run)](https://github.com/OMINDUANJANA/Ai-Camera-Kit/actions/workflows/main.yml)
+
 <p align="center">
     <a href="https://camerakit.io" target="_blank">
         <img alt='CameraKit Header' src='.repo/gh-readme-header.svg' />
